@@ -1,0 +1,1 @@
+Answering questions about source code requires considering sets of source code entities. A tool to support defining, viewing, working with, documenting, and communicating about sets of source code entities (subgraphs).
